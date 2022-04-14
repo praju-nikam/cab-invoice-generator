@@ -1,6 +1,6 @@
 package com.bridgelabz;
-
 public class PrimiumRides {
+
     public static PrimiumRides Normal;
 
     private final double costperkm;
